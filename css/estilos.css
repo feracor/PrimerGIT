@@ -1,15 +1,15 @@
 body
 {
-    color: rgb(62, 189, 72);
-    text-align: center;
+    color: rgb(184, 179, 27);
+    text-align: left;
     font-family: 'Arial';
 }
 #container
 {
-    width: 70%;
-    padding: 1cm;
+    width: 80%;
+    padding: 2cm;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(238, 144, 144);
     margin: 0 auto;
 }
 #container h1
