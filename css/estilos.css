@@ -1,6 +1,18 @@
 body
 {
-    color: rgb(62, 89, 189);
-    text-align: right;
+    color: rgb(184, 179, 27);
+    text-align: left;
     font-family: 'Arial';
-} 
+}
+#container
+{
+    width: 80%;
+    padding: 2cm;
+    text-align: left;
+    border: 1px solid rgb(238, 144, 144);
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
+}
